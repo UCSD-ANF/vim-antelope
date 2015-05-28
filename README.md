@@ -13,7 +13,7 @@ Additional useful plugins
 
  * [syntastic](https://github.com/scrooloose/syntastic) plugin for automatic
    syntax checking while in vim.
-   [snipmate](https://github.com/garbas/vim-snipmate) and
+ * [snipmate](https://github.com/garbas/vim-snipmate) and
    [ultisnips](https://github.com/SirVer/ultisnips).
 
 Installation
