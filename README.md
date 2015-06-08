@@ -25,7 +25,7 @@ directory.
 
 My entire home directory is a git repository, so for me it's simply a case of
 
-    $ git submodule add -f git://github.com/rodjek/vim-antelope.git .vim/bundle/antelope
+    $ git submodule add -f https://github.com/UCSD-ANF/vim-antelope.git .vim/bundle/antelope
 
 If you're not using pathogen, you can just manually place the files in the
 appropriate places under `~/.vim/`
